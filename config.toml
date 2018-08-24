@@ -285,27 +285,27 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#Publications"
+  url = "#publications"
   weight = 3
 
 [[menu.main]]
   name = "Talks & Workshops "
-  url = "#Talks"
+  url = "#talks"
   weight = 4
 
 [[menu.main]]
   name = "Posts"
-  url = "#Posts"
+  url = "#posts"
   weight = 5
 
 [[menu.main]]
   name = "Teaching"
-  url = "#Teaching"
+  url = "#teaching"
   weight = 6
 
 [[menu.main]]
   name = "Contact"
-  url = "#Contact"
+  url = "#contact"
   weight = 7
 
 # Link to a PDF of your resume/CV from the menu.
