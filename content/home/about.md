@@ -12,10 +12,11 @@ weight = 5
   interests = [
     "Data Science", 
     "Big Data", 
+    "Business Process Management",
     "Machine learning", 
     "Predictive Modelling", 
-    "R", 
-    "Business Process Management"
+    "R for Data science"
+    
   ]
 
 # List your qualifications (such as academic degrees).
@@ -24,10 +25,10 @@ weight = 5
   institution = "Lorraine university & ENSIAS"
   #year = 2012
 
-#[[education.courses]]
+[[education.courses]]
   course = "Computer science Engineer"
   institution = "National School of Applied Sciences"
-  year = Promotion, 2014
+  year = 2014
 
 ##[[education.courses]]
   #course = "BSc in Artificial Intelligence"
@@ -38,6 +39,10 @@ weight = 5
 
 # About me
 
-Abir is a PhD candidate,...
+I am a PhD candidate in the [COAST team] (https://team.inria.fr/coast/fr/) of LORIA in Nancy, France and AlQualsadi team of [ENSIAS] (http://ensias.um5.ac.ma/) in Rabat, Morocco. My work is focused on enhancing Business Process Management (BPM) using Big Data technologies and Data Analysis.
 
-I am the founder and organiser of R-ladies Rabat
+I am the founder and organiser of [R-ladies Rabat] (https://www.meetup.com/rladies-rabat/). Being part of this [global organization] (https://rladies.org/) was a mindset changer for me, and I am very happy to be part of this community.
+
+I am an aspire data scientist, I enjoy learning new technologies especially in the field of Data Analysis, Predictive modelling and Machine Learning.
+
+In my spare time, I love reading books and listening to podcasts especially about personal development, because I believe that human potential is limitless and it can always be improved.
