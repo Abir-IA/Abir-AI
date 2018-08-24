@@ -5,6 +5,6 @@ Made with <a href="https://github.com/rstudio/blogdown">blogdown</a>,  <a href="
 
 Useful tutorials that I used :
 
-- Blogdown Book <a href="https://bookdown.org/yihui/blogdown/">blogdown: Creating Websites with R Markdown  </a>
+- Blogdown Book : <a href="https://bookdown.org/yihui/blogdown/">blogdown: Creating Websites with R Markdown  </a>
 - Amber Thomas post : <a href="http://amber.rbind.io/blog/2016/12/19/creatingsite/">Making a Website Using Blogdown, Hugo, and GitHub pages </a>
 
