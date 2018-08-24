@@ -3,6 +3,8 @@ My personal website:
 
 Made with <a href="https://github.com/rstudio/blogdown">blogdown</a>,  <a href="https://gohugo.io/">hugo</a> and <a href="https://www.netlify.com/">Netlify</a>
 
+Theme I used : <a href="https://themes.gohugo.io/academic/">Academic </a>
+
 Useful tutorials that I used :
 
 - Blogdown Book : <a href="https://bookdown.org/yihui/blogdown/">blogdown: Creating Websites with R Markdown  </a>
