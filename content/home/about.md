@@ -21,13 +21,13 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD Candidate in computer science "
-  institution = "Lorraine university"
+  institution = "Lorraine university & ENSIAS"
   #year = 2012
 
 #[[education.courses]]
-  #course = "MEng in Artificial Intelligence"
- # institution = "Massachusetts Institute of Technology"
-  #year = 2014
+  course = "Computer science Engineer"
+  institution = "National School of Applied Sciences"
+  year = Promotion, 2014
 
 ##[[education.courses]]
   #course = "BSc in Artificial Intelligence"
