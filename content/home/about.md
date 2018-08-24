@@ -15,7 +15,7 @@ weight = 5
     "Machine learning", 
     "Predictive Modelling", 
     "R", 
-    "Business Process Management - BPM"
+    "Business Process Management"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -24,10 +24,10 @@ weight = 5
   institution = "Lorraine university"
   #year = 2012
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2014
+#[[education.courses]]
+  #course = "MEng in Artificial Intelligence"
+ # institution = "Massachusetts Institute of Technology"
+  #year = 2014
 
 ##[[education.courses]]
   #course = "BSc in Artificial Intelligence"
@@ -38,6 +38,6 @@ weight = 5
 
 # Background
 
-Abir is a PhD candidate,
+Abir is a PhD candidate,...
 
 I am the founder and organiser of R-ladies Rabat
