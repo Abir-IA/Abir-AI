@@ -21,7 +21,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD Candidate in computer science "
+  course = "PhD student in computer science "
   institution = "Lorraine university & ENSIAS"
   #year = 2012
 
