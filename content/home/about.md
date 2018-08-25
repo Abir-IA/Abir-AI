@@ -45,4 +45,4 @@ I am the founder and organiser of [R-ladies Rabat] (https://www.meetup.com/rladi
 
 I am an aspire data scientist, I enjoy learning new technologies especially in the field of Data Analysis, Predictive modelling and Machine Learning.
 
-In my spare time, I love reading books and listening to podcasts especially about personal development, because I believe that human potential can always be improved.
+In my spare time, I love reading books (I have an eclectic preferences) and also listening to podcasts especially about personal development and motivation, because I believe that human potential can always be improved.
