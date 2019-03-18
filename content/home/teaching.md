@@ -21,4 +21,4 @@ weight = 60
  
  
  
-* __Data Structure course__ : DUT (BAC + 2) first year - IUT Charlemagne, Nancy - France
+* __Data Structure course__ : DUT (BAC + 2) - IUT Charlemagne, Nancy - France
