@@ -15,4 +15,5 @@ weight = 60
 
 +++
 
-
+ __2018/2019__ :
+* __Data Structure__ : DUT (BAC + 2) first year - IUT Charlemagne, Nancy - France
