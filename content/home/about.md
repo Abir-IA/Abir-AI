@@ -46,7 +46,11 @@ I am the organizer of [R-ladies Rabat] (https://www.meetup.com/rladies-rabat/), 
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> 596cb657a6b552b89a54d3876cfb3fd926c03cb4
 I enjoy learning new technologies especially in the field of Data Analysis, Predictive modelling and Machine Learning.
+=======
+I am a Data Science Enthusiast, I enjoy learning new technologies especially in the field of Data Analysis, Predictive modelling and Machine Learning.
+>>>>>>> d5e9741e866c050fc5bb7655a2e7adc112bf61e0
 
 In my spare time, I love reading books (I have an eclectic preferences) and also listening to podcasts especially about personal development and motivation, because I believe that human potential can always be improved.
