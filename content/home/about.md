@@ -43,6 +43,10 @@ I am a PhD student in the [COAST team] (https://team.inria.fr/coast/fr/) of LORI
 
 I am the organizer of [R-ladies Rabat] (https://www.meetup.com/rladies-rabat/), I founded this chapter in March 2018, and I am very happy to be part of [global organization] (https://rladies.org/) .
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 596cb657a6b552b89a54d3876cfb3fd926c03cb4
 I enjoy learning new technologies especially in the field of Data Analysis, Predictive modelling and Machine Learning.
 
 In my spare time, I love reading books (I have an eclectic preferences) and also listening to podcasts especially about personal development and motivation, because I believe that human potential can always be improved.
