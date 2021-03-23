@@ -22,3 +22,16 @@ weight = 60
  
  
 * __Data Structure course__ : DUT (BAC + 2) - IUT Charlemagne, Nancy - France
+
+
+ __2019/2020__ :
+ 
+ 
+ 
+ 
+ 
+* __COO-UML__ : M1  - IDMC (Institut des Sciences du Digital, Management et Cognition), Nancy - France
+* __Algorithmique-Programation 2__ : L1  - IDMC (Institut des Sciences du Digital, Management et Cognition), Nancy - France
+* __Relational Database__ : L2 - IDMC (Institut des Sciences du Digital, Management et Cognition), Nancy - France
+* __Algorithmic Complexity__ : L3 - IDMC (Institut des Sciences du Digital, Management et Cognition), Nancy - France
+
