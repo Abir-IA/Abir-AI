@@ -47,7 +47,6 @@ I am the organizer of [R-ladies Rabat] (https://www.meetup.com/rladies-rabat/), 
 
 
 
-I enjoy learning new technologies especially in the field of Data Analysis, Predictive modelling and Machine Learning.
 
 I am a Data Science Enthusiast, I enjoy learning new technologies especially in the field of Data Analysis, Predictive modelling and Machine Learning.
 
