@@ -79,7 +79,7 @@ enableGitInfo = false
   phone = ""
   skype = ""
   telegram = ""
-  twitter = "Abi_R_"
+  twitter = "@AbirAlaouii"
   github = "Abir-IA"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -280,7 +280,7 @@ enableGitInfo = false
   
   [[menu.main]]
   name = "CV"
-  url = "#CV"
+  url = "static/CV/resume.PDF"
   weight = 2
 
 [[menu.main]]
