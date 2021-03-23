@@ -41,16 +41,15 @@ weight = 5
 
 I am a PhD student in the AlQualsadi team, [Rabat Information Technology Center] (http://www.rabat-it-center.org/), [ENSIAS] (http://ensias.um5.ac.ma/) in Rabat, Morocco and the [COAST team] (https://team.inria.fr/coast/fr/) of LORIA in Nancy, France. My work is focused on enhancing Business Process Management (BPM) using Big Data technologies and Data Analysis.
 
-I am the organizer of [R-ladies Rabat] (https://www.meetup.com/rladies-rabat/), I founded this chapter in March 2018, and I am very happy to be part of this [global organization] (https://rladies.org/) .
+I am the organizer of [R-ladies Rabat] (https://www.meetup.com/rladies-rabat/), I founded this chapter in March 2018, and I am very happy to be part of [global organization] (https://rladies.org/) .
 
-<<<<<<< HEAD
-=======
 
-<<<<<<< HEAD
->>>>>>> 596cb657a6b552b89a54d3876cfb3fd926c03cb4
+
+
+
 I enjoy learning new technologies especially in the field of Data Analysis, Predictive modelling and Machine Learning.
-=======
+
 I am a Data Science Enthusiast, I enjoy learning new technologies especially in the field of Data Analysis, Predictive modelling and Machine Learning.
->>>>>>> d5e9741e866c050fc5bb7655a2e7adc112bf61e0
+
 
 In my spare time, I love reading books (I have an eclectic preferences) and also listening to podcasts especially about personal development and motivation, because I believe that human potential can always be improved.

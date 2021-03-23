@@ -37,6 +37,9 @@ exclude_selected = false
 +++
 * __A. Ismaili-Alaoui__, O.Kasmi, A.Baina, K.Baina, K.Benali, M.Bellafkih.  Priority-based Event Management using Fuzzy Logic foran IoT-BPM Architecture,  IEEE 12th Conference on Service-Oriented Computing and Applications (SOCA), 2019, Kaohsiung (Taiwan), https://ieeexplore.ieee.org/document/8953017
 
+* __A. Ismaili-Alaoui__, K.Baina, K.Benali.  Harnessing the power of data and event datafor Business Process Improvement,  Complexity Analysis of Industrial Systems and Advanced Modeling (CAISAM), 2019, en Guerir (Morocco). https://hal.inria.fr/hal-02504017/file/CAISAM1_2019.pdf
+
+
 * __A. Ismaili-Alaoui__, K. Benali, K. Baina, J. Baina.  Towards smart incident management under human resource
 constraints for an IoT-BPM hybrid architecture, International Conference on Web Services-ICWS, 2018, Seattle (USA), https://link.springer.com/chapter/10.1007/978-3-319-94289-6_29
 
