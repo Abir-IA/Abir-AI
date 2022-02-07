@@ -41,7 +41,7 @@ weight = 5
 
 I am a PhD student in the [COAST team] (https://team.inria.fr/coast/fr/) of LORIA in Nancy, France, and the AlQualsadi team - Innovation on Digital and Enterprise Architectures, [Rabat Information Technology Center] (http://www.rabat-it-center.org/), [ENSIAS] (http://ensias.um5.ac.ma/) in Rabat, Morocco. My work is focused on enhancing Business Process Management (BPM) using Big Data technologies and Data Analysis.
 
-I am the organizer of [R-ladies Rabat] (https://www.meetup.com/rladies-rabat/), I founded this chapter in March 2018, and I am very happy to be part of this [global organization] (https://rladies.org/) .
+I am the organizer of [R-ladies Rabat] (https://www.meetup.com/rladies-rabat/), I founded this chapter in March 2018, and I am very happy to be part of this [global organization] (https://rladies.org/).
 
 
 
