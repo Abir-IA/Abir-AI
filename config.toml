@@ -246,7 +246,7 @@ enableGitInfo = false
     [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "https://www.linkedin.com/in/abir-ismaili-alaoui-082a8884/"
+    link = "https://www.linkedin.com/in/abir-alaoui-ismaili-082a8884/"
 
   [[params.social]]
     icon = "google-scholar"
