@@ -5,7 +5,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 #title = "Recent & Upcoming Talks"
-title = "Upcoming Talks"
+title = "Talks"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -23,3 +23,4 @@ list_format = 0
 exclude_selected = false
 +++
 
+* GDG Nantes International Women's Day Nantes 2022.: https://gdg.community.dev/events/details/google-gdg-nantes-presents-international-womens-day-nantes-2022/ 
