@@ -35,6 +35,8 @@ publication_type = "-1"
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
 +++
+* __A. Ismaili-Alaoui__, K. Baina, K.Benali. "IoDEP : Towards an IoT-DataAnalysis and Event Processing Architecture for Business Process Incident Man-agement". In the International Journal of Advanced Computer Science and Appli-cations (IJACSA) - Volume 13 No 4 April 2022.
+* __A. Ismaili-Alaoui__, K. Baina, K.Benali. (2022, Avril). Traitement des événementscomplexes pour une gestion proactive des instances d’un processus métier. Con-grès INFORSID (INFormatique des ORganisations et Systèmes d’Information etde Décision) (INFORSID’22)
 * __A. Ismaili-Alaoui__, O.Kasmi, A.Baina, K.Baina, K.Benali, M.Bellafkih.  Priority-based Event Management using Fuzzy Logic foran IoT-BPM Architecture,  IEEE 12th Conference on Service-Oriented Computing and Applications (SOCA), 2019, Kaohsiung (Taiwan), https://ieeexplore.ieee.org/document/8953017
 
 * __A. Ismaili-Alaoui__, K.Baina, K.Benali.  Harnessing the power of data and event datafor Business Process Improvement,  Complexity Analysis of Industrial Systems and Advanced Modeling (CAISAM), 2019, en Guerir (Morocco). https://hal.inria.fr/hal-02504017/file/CAISAM1_2019.pdf
