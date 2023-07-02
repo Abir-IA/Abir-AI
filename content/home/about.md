@@ -29,7 +29,7 @@ weight = 5
 [[education.courses]]
   course = "Computer science Engineer"
   institution = "National School of Applied Sciences"
-  year = 2014
+ #year = 2014
 
 ##[[education.courses]]
   #course = "BSc in Artificial Intelligence"
