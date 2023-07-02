@@ -40,7 +40,7 @@ weight = 5
 
 # About me
 
-Process & Data scientist with experience in both academic research and industry. 
+Process and Data scientist with experience in both academic research and industry. 
 
 PhD in computer science from University of Lorraine, Nancy, France and Mohammed V University, Rabat, Morocco.
 
