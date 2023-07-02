@@ -48,9 +48,10 @@ I am the organizer of [R-ladies Rabat] (https://www.meetup.com/rladies-rabat/), 
 
 Ready to take on challenges, passionate about AI applications and process mining, especially in the medical field. 
 
-/*I am a PhD student in the [COAST team] (https://team.inria.fr/coast/fr/) of LORIA in Nancy, France, and the AlQualsadi team - Innovation #on Digital and Enterprise Architectures, [Rabat Information Technology Center] (http://www.rabat-it-center.org/), [ENSIAS] #(http://ensias.um5.ac.ma/) in Rabat, Morocco. My work is focused on enhancing Business Process Management (BPM) using Big Data technologies #and Data Analysis.
+// I am a PhD student in the [COAST team] (https://team.inria.fr/coast/fr/) of LORIA in Nancy, France, and the AlQualsadi team - Innovation // on Digital and Enterprise Architectures, [Rabat Information Technology Center] (http://www.rabat-it-center.org/), [ENSIAS] 
+// (http://ensias.um5.ac.ma/) in Rabat, Morocco. My work is focused on enhancing Business Process Management (BPM) using Big Data technologies // and Data Analysis.
 
-#I am a Data Science and Process Mining enthusiast, I enjoy learning new technologies especially in the field of Data Analysis, Predictive modelling, Machine Learning, and Business Process Management.
-*/
+// I am a Data Science and Process Mining enthusiast, I enjoy learning new technologies especially in the field of Data Analysis, 
+// Predictive modelling, Machine Learning, and Business Process Management.
 
 
