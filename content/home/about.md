@@ -38,17 +38,10 @@ weight = 5
  
 +++
 
-# About me
+# Current position
 
-"Depuis mars 2024, je travaille en tant que chercheuse postdoctorale au sein du  Centre de recherche en automatique de Nancy (CRAN, UMR 7039), Université de Lorraine."
+"Postdoctoral reasercher at Centre de recherche en automatique de Nancy (CRAN, UMR 7039), Université de Lorraine (since March 2024."
 
-Process and Data scientist with experience in both academic research and industry. 
-
-PhD in computer science from University of Lorraine, Nancy, France and Mohammed V University, Rabat, Morocco.
-
-I am the organizer of [R-ladies Rabat] (https://www.meetup.com/rladies-rabat/), I founded this chapter in March 2018, and I am very happy to be part of this [global organization] (https://rladies.org/).
-
-Ready to take on challenges, passionate about AI applications and process mining, especially in the medical field. 
-
+"My research focuses on"
 
 
