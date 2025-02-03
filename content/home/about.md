@@ -40,6 +40,8 @@ weight = 5
 
 # About me
 
+"Depuis mars 2024, je travaille en tant que chercheuse postdoctorale au sein du  Centre de recherche en automatique de Nancy (CRAN, UMR 7039), Université de Lorraine."
+
 Process and Data scientist with experience in both academic research and industry. 
 
 PhD in computer science from University of Lorraine, Nancy, France and Mohammed V University, Rabat, Morocco.
