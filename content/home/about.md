@@ -40,8 +40,7 @@ weight = 5
 
 # Current position
 
-"Postdoctoral reasercher at Centre de recherche en automatique de Nancy (CRAN, UMR 7039), Université de Lorraine (since March 2024."
+"My New personnel website : https://abir-ia.github.io/"
 
-"My research focuses on"
 
 
